@@ -20,9 +20,3 @@ Bu proje, bir web sayfası ya da ekran görüntüsünü analiz ederek yazılım 
 - `fpdf`: PDF çıktısı oluşturma
 - `python-dotenv`: API anahtarı yönetimi
 
-## 🧪 Kurulum
-
-1. Bu repoyu klonla:
-   ```bash
-   git clone https://github.com/GCserra/ai-url-senaryo.git
-   cd ai-url-senaryo
